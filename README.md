@@ -19,7 +19,7 @@ une analyse plus approfondie des données.
  🧾 https://www.linkedin.com/in/mathieu-bosse-579a17158/
 	
 
-<h3>Compétences:</h3>
+<h3>Compétences</h3>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
