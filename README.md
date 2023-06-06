@@ -1,7 +1,7 @@
 <div align="center">
 
 <samp> 
-
+	
 <h3>Bienvenue sur mon profil Github</h3> 
 
 
@@ -14,6 +14,14 @@ une formation en Data et IA.
 - Je crois que l’IA et la Data ont le potentiel de révolutionner le secteur de la finance
 en améliorant la précision des prévisions, en réduisant les risques et en permettant
 une analyse plus approfondie des données.
+	
+	-----------
+<h3>Welcome to my Github profile</h3> 
+
+
+- Passionate about technology and naturally curious, I have decided to make the leap from finance to artificial intelligence. After completing a Master's degree in the finance sector, I realized that my interest in technological innovation was driving me to explore new horizons, leading me to pursue a training program in Data and AI.
+  
+- I believe that AI and Data have the potential to revolutionize the finance sector by improving the accuracy of forecasts, reducing risks, and enabling more in-depth data analysis.
 
  📫 mathieu.bosse@gmail.com
  🧾 https://www.linkedin.com/in/mathieu-bosse-579a17158/
@@ -44,9 +52,9 @@ une analyse plus approfondie des données.
 
 
 
-[![MathieuBosse GitHub stats](https://github-readme-stats.vercel.app/api?username=MathieuBosse&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&ring_color=FFFFFF&bg_color=373737&title_color=4e44ff&icon_color=18b528&text_color=4e44ff)](https://github.com/mathieubosse/github-readme-stats)
+[![MathieuBosse GitHub stats](https://github-readme-stats.vercel.app/api?username=MathieuBosse&show_icons=true&theme=moltack&rank_icon=github&count_private=true)](https://github.com/mathieubosse/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MathieuBosse&layout=compact&langs_count=6&custom_title=Language%20Utilis%C3%A9&bg_color=373737&text_color=FFFFFF)](https://github.com/mathieubosse/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MathieuBosse&layout=compact&langs_count=6&custom_title=Language%20Utilis%C3%A9&theme=moltack)](https://github.com/mathieubosse/github-readme-stats)
 
 </samp>
 
