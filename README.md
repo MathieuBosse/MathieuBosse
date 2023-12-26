@@ -52,9 +52,9 @@ une analyse plus approfondie des données.
 
 
 
-[![MathieuBosse GitHub stats](https://github-readme-stats.vercel.app/api?username=MathieuBosse&show_icons=true&theme=moltack&rank_icon=github&count_private=true)](https://github.com/mathieubosse/github-readme-stats)
+[![MathieuBosse GitHub stats](https://github-readme-stats.vercel.app/api?username=MathieuBosse&show_icons=true&theme=dracula&rank_icon=github&count_private=true)](https://github.com/mathieubosse/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MathieuBosse&layout=compact&langs_count=6&custom_title=Language%20Utilis%C3%A9&theme=moltack)](https://github.com/mathieubosse/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MathieuBosse&layout=compact&langs_count=6&custom_title=Language%20Utilis%C3%A9&theme=dracula)](https://github.com/mathieubosse/github-readme-stats)
 
 </samp>
 
